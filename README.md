@@ -18,6 +18,8 @@ Smart contract are deployed, the only thing you need to do is to run the dApp, w
 So execute (from the root folder)
 - `npm run dev`
 
+You need a nodejs installation, of course, and the `lite-server` module installed.
+
 to launch the web user interface. 
 You can access the web app at `localhost:3000`
 
